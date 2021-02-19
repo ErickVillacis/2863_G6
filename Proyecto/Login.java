@@ -3,6 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+//Nombre tester: Fernanda Galarraga
+//Fecha: 19/02/2021
 package fifastreet;
 
 import java.awt.event.KeyEvent;
